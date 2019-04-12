@@ -2,7 +2,9 @@
 
 Dataset: https://github.com/emanhamed/Houses-dataset
 
-@article{ahmed2016house, title={House price estimation from visual and textual features}, 
+@article{ahmed2016house, 
+
+title={House price estimation from visual and textual features}, 
 
 author={Ahmed, Eman and Moustafa, Mohamed}, 
 
